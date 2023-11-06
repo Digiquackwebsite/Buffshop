@@ -1,0 +1,171 @@
+ 
+a {
+    text-decoration: none !important;
+}
+.btn-secondary {
+    color: #fff; 
+    background-color: unset; 
+    border-color: unset;
+}
+.btn-primary{
+    color: #fff;
+    background-color: #50a9dc;
+    border-color: #50a9dc;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: #50a9dc;
+    border-color: #50a9dc;
+}
+.bg-gradient-primary {
+    background-color: #50a9dc;
+    background-image: linear-gradient(180deg,#50a9dc 10%,#50a9dc 100%);
+    background-size: cover;
+}
+.text-primary {
+    color: #50a9dc !important;
+}
+.excel a {
+    color:#50a9dc;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: unset;
+    border-color: unset;
+}
+.btn-secondary:focus {
+    color: #fff;
+    background-color:unset;
+    border-color:unset;
+    box-shadow:unset;
+}
+.page-item.active .page-link {
+    background-color: #50a9dc;
+    border-color: #50a9dc;
+}
+.table {
+    color: #000000;
+}
+.text-gray-800 {
+    color: #000000!important;
+}
+th.sorting {
+    font-size: 12px;
+}
+td {
+    font-size: 12px;
+}
+th {
+    font-size: 12px;
+}
+.table-responsive {
+    color: #000;
+}
+.form-control {
+    color: #000 !important;
+}
+
+/*  tamplate page list-vendors */
+#wrapper .btn-group a {
+    color: #50a9dc;
+    cursor: pointer;
+}
+#wrapper .btn-group {
+    width: 100%;
+} 
+#wrapper button.btn.btn-primary.custom {
+    padding: 8px 16px;
+    font-size: 13px;
+}
+#wrapper button.btn.btn-danger.custom {
+    padding: 4px 24px;
+    font-size: 12px;
+}
+
+
+/*  tamplate page list-vendors end */
+
+/* tamplate page Warranty-cards css */
+#warranty .dynamic-form {
+  display: none;
+  margin-top: 10px;
+}
+#warranty select {
+    width: 100%;
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: 14px 8px;
+    color: #6e707e ;
+    border-color: #d1d3e2;
+    outline:none;
+}
+#warranty input#field1 {
+    margin-bottom: 10px;
+}
+#warranty a.btn.btn-primary.btn-user.btn-block {
+    font-size: .8rem;
+    border-radius: 10rem;
+    padding: 0.75rem 1rem;
+}
+
+/* tamplate page Warranty-cards css end */
+
+/* register-buffshop page form img */
+
+#register .bg-register-img {
+    background: url("../img/service-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+/* register-buffshop page form end */
+
+/* register page form img */
+
+#car .bg-register-img {
+    background: url("../img/service-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+/* register page form end */
+
+/* Warranty-Cards page form img */
+
+#warranty .bg-register-img {
+    background: url("../img/service-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+/* Warranty-Cards page form end */
+
+/* customer-form page form img */
+
+#customer .bg-register-img {
+    background: url("../img/service-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+/* customer-form page form end */
+
+/* login page css */
+
+#login .bg-login-img {
+    background: url("../img/service-bg.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+
+/* login page css end */
+
+/* forgot page css */
+
+#forgot .bg-password-img {
+    background: url("../img/service-bg-22.jpg");
+    background-position: center;
+    background-size: cover;
+}
+/* forgot page css end */
